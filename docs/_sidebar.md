@@ -21,6 +21,8 @@
   - [vite](project/vite.md)
 
 - 系统相关
+  - [常用git命令](system/gitCommands.md)  
+  - [多个git账号ssh切换](system/gitAccount.md)
   - [常用Linux命令](system/linuxCommands.md)
   - [常用vi/vim命令](system/vimCommands.md)
   
