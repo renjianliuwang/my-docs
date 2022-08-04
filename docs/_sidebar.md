@@ -28,3 +28,4 @@
   
 - 其他
   - [常用工具](other/tools.md)
+  - [开发环境准备](other/envConfig.md)
